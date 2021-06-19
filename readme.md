@@ -1,0 +1,1 @@
+# `RUACH` - Simple bible app using flutter and [Ruach - Backend](https://rapidapi.com/gryfoleon/api/bible-references/)
